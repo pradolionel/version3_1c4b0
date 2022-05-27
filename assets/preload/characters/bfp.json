@@ -3,107 +3,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-5,
-				60
-			],
-			"anim": "idle",
-			"fps": 24,
-			"name": "BF idle dance",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				5,
-				54
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "BF NOTE LEFT0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-10,
-				5
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "BF NOTE DOWN0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-49,
-				87
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "BF NOTE UP0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-48,
-				53
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "BF NOTE RIGHT0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				7,
-				79
-			],
-			"anim": "singLEFTmiss",
-			"fps": 24,
-			"name": "BF NOTE LEFT MISS",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-15,
-				41
-			],
-			"anim": "singDOWNmiss",
-			"fps": 24,
-			"name": "BF NOTE DOWN MISS",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-36,
-				87
-			],
-			"anim": "singUPmiss",
-			"fps": 24,
-			"name": "BF NOTE UP MISS",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-44,
-				82
-			],
-			"anim": "singRIGHTmiss",
-			"fps": 24,
-			"name": "BF NOTE RIGHT MISS",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
 				-3,
-				67
+				5
 			],
 			"anim": "hey",
 			"fps": 24,
@@ -114,7 +15,7 @@
 			"loop": false,
 			"offsets": [
 				15,
-				78
+				18
 			],
 			"anim": "hurt",
 			"fps": 24,
@@ -125,7 +26,7 @@
 			"loop": true,
 			"offsets": [
 				-4,
-				60
+				0
 			],
 			"anim": "scared",
 			"fps": 24,
@@ -136,7 +37,7 @@
 			"loop": false,
 			"offsets": [
 				37,
-				71
+				11
 			],
 			"anim": "firstDeath",
 			"fps": 24,
@@ -147,7 +48,7 @@
 			"loop": true,
 			"offsets": [
 				37,
-				65
+				5
 			],
 			"anim": "deathLoop",
 			"fps": 24,
@@ -158,7 +59,7 @@
 			"loop": false,
 			"offsets": [
 				37,
-				129
+				69
 			],
 			"anim": "deathConfirm",
 			"fps": 24,
@@ -179,17 +80,6 @@
 		{
 			"loop": false,
 			"offsets": [
-				294,
-				267
-			],
-			"anim": "attack",
-			"fps": 24,
-			"name": "boyfriend attack",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
 				-40,
 				-40
 			],
@@ -197,15 +87,125 @@
 			"fps": 24,
 			"name": "bf pre attack",
 			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "boytunkle idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "boytunkle left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "boytunkle down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-1
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "boytunkle up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "boytunkle right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-1
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "boytunkle upm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "boytunkle leftm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				1
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "boytunkle downm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-1
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "boytunkle rightm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-1
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "boytunkle shoot",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/boytunkle",
 	"position": [
-		0,
-		400
+		-250,
+		160
 	],
-	"healthicon": "bf",
+	"healthicon": "bfp",
 	"flip_x": true,
 	"healthbar_colors": [
 		49,
@@ -213,9 +213,9 @@
 		209
 	],
 	"camera_position": [
-		100,
-		-90
+		0,
+		0
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 1.1
 }
