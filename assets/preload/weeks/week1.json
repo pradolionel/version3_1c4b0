@@ -1,22 +1,39 @@
 {
-	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+	"storyName": "c0rrupt3d sp0ng3b0b",
+	"hideFreeplay": false,
+	"weekBackground": "none",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
 	"weekBefore": "tutorial",
-	"weekName": "Week 1",
 	"startUnlocked": true,
-
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"Ready Or not",
+			"spongenut",
+			[
+				215,
+				215,
+				100
+			]
+		],
+		[
+			"Here I come",
+			"spongenut",
+			[
+				215,
+				215,
+				100
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "CorruptSteven"
 }
